@@ -10,3 +10,8 @@ Good morning !
 $$
 f(x) = ax+b
 $$
+
+then:
+$$
+g(x) = \sum f_n(x)
+$$
